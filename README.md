@@ -25,7 +25,7 @@
 <img width="215" height="125" alt="macbook gen1 sizes@10x" src="https://github.com/user-attachments/assets/6b82e8fd-ae06-4b93-b0d2-31b12fb3f018" />
 <img width="130" height="165" alt="macpro gen3 fill@10x" src="https://github.com/user-attachments/assets/254250af-33bc-48bb-90b2-83e0844e1d2f" />
 
-
+MacMini(M1 - M6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MacStudio(M1-M5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MacBook(M1-M6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MacPro(M2 Ultra)
 ## Current TO DO
 
 - [X] Native Rosetta compiled build ready for testing.
