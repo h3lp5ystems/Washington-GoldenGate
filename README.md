@@ -15,10 +15,9 @@
 
 <div align="center">
   
-  ## Currently supported devices: 
+ ## Currently supported devices: 
 
 </div>
-
 
 <img width="165" height="65" alt="macmini fill@10x" src="https://github.com/user-attachments/assets/6cd567cb-76d1-4a2f-bd45-b09b777d16e2" />
 <img width="155" height="85" alt="macstudio fill@10x" src="https://github.com/user-attachments/assets/7b3a6e80-8a9e-4283-85ae-7d4420b078ce" />
@@ -26,6 +25,7 @@
 <img width="130" height="165" alt="macpro gen3 fill@10x" src="https://github.com/user-attachments/assets/254250af-33bc-48bb-90b2-83e0844e1d2f" />
 
 MacMini(M1 - M6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MacStudio(M1-M5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MacBook(M1-M6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MacPro(M2 Ultra)
+
 ## Current TO DO
 
 - [X] Native Rosetta compiled build ready for testing.
@@ -33,6 +33,20 @@ MacMini(M1 - M6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MacStudio(M1-M5)
 - [ ] Full Metal rewrite no MoltenVK overhead.
 - [ ] Full arm64 rewrite no Rosetta overhead.
 - [ ] Further cache optimisations.
+
+> [!NOTE]
+> Right now with GoldenGate PS5 we are seeing steady frame drops in emulation (nothing worse than what you get with a non M series emulator),
+> this is most likely due to brand new Unified Memory Access optimisations for M series Macs (our main NO1 priority). This is predicted to get
+> better with different games and smooth out in the future as our implementation becomes more mainstreamed into the source code.
+
+## Compatible Games for GoldenGate PS5
+
+- Astro Bot (60FPS loading screen and 2-4FPS gameplay).
+- 100% tests passed.
+
+## Compatible Games for Washington PS4
+
+- 100% tests passed.
 
 ## Gallery:
 
