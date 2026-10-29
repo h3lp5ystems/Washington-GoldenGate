@@ -49,6 +49,8 @@ MacMini(M1 - M6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MacStudio(M1-M5)
 - flOw (native level performance, MAX FPS)
 - 100% tests passed.
 
+> [!IMPORTANT]
+> Both WashingtonPS4 and GoldenGatePS5 are in a transit were their executable builds are x86 mac binaries but cannot be ran on intel macs due to M series ONLY aggressive UMA and cache optimisation not available on x86 non ARM architecture. But both will still need to be run through Rosetta 2.
 ## Gallery:
 
 <img width="1348" height="820" alt="gallery3" src="https://github.com/user-attachments/assets/1b4aa0d0-d3ad-4197-8711-385fcd1e7517" />
