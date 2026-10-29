@@ -46,10 +46,13 @@ MacMini(M1 - M6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MacStudio(M1-M5)
 
 ## Compatible Games for Washington PS4
 
+- flOw (native level performance, MAX FPS)
 - 100% tests passed.
 
 ## Gallery:
 
+<img width="1348" height="820" alt="gallery3" src="https://github.com/user-attachments/assets/1b4aa0d0-d3ad-4197-8711-385fcd1e7517" />
+<img width="1348" height="820" alt="gallery4" src="https://github.com/user-attachments/assets/9138fdef-639e-46d5-840c-8e6eac70bb5b" />
 <img width="1392" height="864" alt="gallery" src="https://github.com/user-attachments/assets/9ce23e09-f866-4441-9097-0fbf2746dbec" />
 <img width="1392" height="864" alt="gallery1" src="https://github.com/user-attachments/assets/71300c6b-32e8-43ce-8a13-37da3ec390de" />
 
