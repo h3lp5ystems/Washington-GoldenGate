@@ -58,6 +58,8 @@ MacMini(M1 - M6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MacStudio(M1-M5)
 <img width="1392" height="864" alt="gallery" src="https://github.com/user-attachments/assets/9ce23e09-f866-4441-9097-0fbf2746dbec" />
 <img width="1392" height="864" alt="gallery1" src="https://github.com/user-attachments/assets/71300c6b-32e8-43ce-8a13-37da3ec390de" />
 
-
+> [!NOTE]
+> Yes the development of both these emulators has been LLM assisted and will be in the future. If you have a problem with that use ShadPS4 or
+> kytyPS5 the emulators that these forks are optimised off. The sole purpose of theseare for NEAR native performance of games on MacOS (especially the WashingtonPS4 build that is much later into development and compatibility).
 
 
